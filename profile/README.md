@@ -7,4 +7,4 @@ Songwriting camps present a unique framework to bring this vision into reality. 
 ### Our mission is to unlock the power and beauty of songwriting camps through the enabling forces of emergent technology. 
 We envision a future where musicians are able to plug in and out of pop-up collective identities, songwriting camps, and headless bands — adding their unique styles to these networks as they form. We see a world where internet-native rights, royalties and accreditation can flow as smoothly as the music itself. Through the practice of running experimental songwriting camps, we are cultivating a meaningful network of musicians, artists and cultural supporters with a shared intent and curiosity for the possibilities at the nexus of music and the new internet.
 
-# Welcome to Songcamp.
+## Welcome to [Songcamp](https://song.camp/).
